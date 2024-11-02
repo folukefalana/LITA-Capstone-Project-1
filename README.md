@@ -6,7 +6,7 @@ This project aims to generate an insight into the sales performance of a retail 
 ### Data Sources
 The primary source of Data used for this project is Data Sale.csv and this is open-source data that can be freely downloaded from open source online such as Kaggle or Fred or any other data repository site.
 ### Tools Used
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data cleaning
   2. For Analysing
   3. Visualisation
