@@ -55,7 +55,8 @@ EDA involves the exploratory of the Data to answer some questions about the Data
 ### Data Analysis
 ---
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis
-Pivot Table: Sorting Price into Low, Medium and High
+
+Pivot Table: Sorting Prices into Low, Medium, and High
 
 ```Pivot Table
 =IF(G12610<20,"Low",IF(G12610<=50,"Medium","High"))
