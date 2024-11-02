@@ -1,4 +1,4 @@
-# LITA-Capstone-Project
+# LITA-Capstone-Project 1
 ---
 This project was done after completing the Data Analysis program with the Incubator Hub.
 ### Project Title: Sales Performance Analysis for a Retail Store
