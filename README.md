@@ -62,10 +62,10 @@ Pivot Table: Sorting Transactions by Category into Low, Medium, and High
 =IF(G12610<20,"Low",IF(G12610<=50,"Medium","High"))
 ```
 
-Excel Formula for Average Product
+Excel Formula for Average Sales per Product
 
 ```Excel Table
-=AVERAGE(G2:G50001)
+=AVERAGEIF(C2:C50001,C2,G2:G50001)
 ```
 
 Total Revenue by Region
