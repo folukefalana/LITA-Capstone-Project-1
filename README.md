@@ -68,4 +68,10 @@ Excel Formula for Average Product
 =AVERAGE(G2:G50001)
 ```
 
+Total Revenue by Region
+
+```Excel Table
+=SUM(G2:G50001)
+```
+
 ### Data Visualisation
