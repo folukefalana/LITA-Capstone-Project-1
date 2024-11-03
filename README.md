@@ -71,7 +71,7 @@ Excel Formula for Average Product
 Total Revenue by Region
 
 ```Excel Table
-=SUM(G2:G50001)
+=COUNT(G2:G50001)
 ```
 
 ### Data Visualisation
