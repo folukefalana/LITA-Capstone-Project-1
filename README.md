@@ -62,4 +62,10 @@ Pivot Table: Sorting Transactions by Category into Low, Medium, and High
 =IF(G12610<20,"Low",IF(G12610<=50,"Medium","High"))
 ```
 
+Excel Formula for Average Product
+
+```Excel Table
+=AVERAGE(G2:G50001)
+```
+
 ### Data Visualisation
