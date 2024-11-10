@@ -75,4 +75,22 @@ Total Revenue by Region
 =SUMIF(D2:D50001,D2,G2:G50001)
 ```
 
+--- Total Number of Customers by Region in SQL ---
+
+```Select * from [dbo].[Customers Data]
+Where Region = 'North'
+```
+```Select Count(*) As NorthCustomers from [dbo].[Customers Data]
+Where Region = 'North'
+```
+```Select Count(*) As EastCustomers from [dbo].[Customers Data]
+Where Region = 'East'
+```
+```Select Count(*) As WestCustomers from [dbo].[Customers Data]
+Where Region = 'West'
+```
+```Select Count(*) As SouthCustomers from [dbo].[Customers Data]
+Where Region = 'South'
+```
+
 ### Data Visualisation
