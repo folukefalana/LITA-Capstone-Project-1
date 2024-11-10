@@ -103,9 +103,9 @@ Where Canceled = 'TRUE'
 ```
 --- Top 3 Cancelled Region ---
 
-Select top 3 * from [dbo].[Customers Data]
+```Select top 3 * from [dbo].[Customers Data]
 Where Canceled = 'TRUE'
-
+```
 
 
 ### Data Visualisation
