@@ -94,11 +94,12 @@ Where Region = 'South'
 ```
 --- Total Number of Active and Canceled Subscribers ---
 
-Select Count(*) As ActiveSubscription from [dbo].[Customers Data]
+```Select Count(*) As ActiveSubscription from [dbo].[Customers Data]
 Where Canceled = 'FALSE'
+```
 
-Select Count(*) As CanceledSubscription from [dbo].[Customers Data]
+```Select Count(*) As CanceledSubscription from [dbo].[Customers Data]
 Where Canceled = 'TRUE'
-
+```
 
 ### Data Visualisation
