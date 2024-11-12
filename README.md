@@ -1,4 +1,4 @@
-# LITA-Capstone-Project 1
+# LITA-Capstone-Project 2
 
 This is one of the projects done after completing the Data Analysis program with the Incubator Hub.
 
